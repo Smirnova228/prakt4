@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "534SoXOs9b31m5D5i9vv39llUDIUDQsuPnxPSJLYZnbr0Sd9evOBfd/LoZZKpAapzpUqsK711va6o5SCMB0H6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gigabyte\\source\\repos\\FrogApps\\FrogApps\\FrogApps.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gigabyte\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
